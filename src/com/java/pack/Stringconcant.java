@@ -7,6 +7,7 @@ public class Stringconcant {
 String firstName="Akhil";
 String secondName="Somashekaran";
 
+System.out.println("print me");
 System.out.println(firstName+ " "+secondName);
 	}
 
